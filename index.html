@@ -1,0 +1,83 @@
+<!--exmpla of login page-->
+<!DOCTYPE html>
+<html lang ="en">
+<head>
+    <title>Login Page</title>
+
+    <style>
+        body{
+            font-family: Arial, sans-serif;
+            background: linear-gradient(to right, #4facfe, #00f2fe);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .login-box{
+            background: white;
+            padding: 40px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0,0,0,0.2);
+            width: 300px;
+            text-align: center;
+        }
+
+        h2{
+            margin-bottom: 20px;
+        }
+
+        input{
+            width: 90%;
+            padding: 10px;
+            margin: 10px 0;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+        }
+
+        button{
+            width: 95%;
+            padding: 10px;
+            background: #4facfe;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+
+        button:hover{
+            background: #00c6ff;
+        }
+
+        .register{
+            margin-top: 15px;
+            font-size: 14px;
+        }
+
+        .register a{
+            text-decoration: none;
+            color: #4facfe;
+        }
+    </style>
+
+</head>
+
+<body>
+
+<div class="login-box">
+    <h2>Login</h2>
+
+    <form>
+        <input type="text" placeholder="Enter Username" required>
+        <input type="password" placeholder="Enter Password" required>
+        <button type="submit">Login</button>
+    </form>
+
+    <div class="register">
+        Don't have an account? <a href="#">Register</a>
+    </div>
+</div>
+
+</body>
+</html>
