@@ -7,6 +7,18 @@ body {
     min-height: 100vh;
 }
 
+/* Login container */
+.login-container {
+    width: 380px;
+    background: white;
+    padding: 40px;
+    border-radius: 15px;
+
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25);
+}
+
+/* Heading */
+
 .login-container {
     background: white;
     padding: 30px;
