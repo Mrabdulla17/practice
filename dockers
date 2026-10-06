@@ -1,0 +1,10 @@
+Docker is a platform used to build, run, and manage containers.
+Containers package an application with its dependencies.
+Docker provides consistent environments across development and production.
+Docker Image is a blueprint used to create containers.
+Docker Container is a running instance of an image.
+Dockerfile contains instructions to build an image.
+Docker Hub is a registry for storing and sharing images.
+Docker containers are lightweight and fast compared with virtual machines.
+Common commands: docker build, docker run, docker ps, docker stop.
+Docker is widely used in DevOps, CI/CD, microservices, and cloud deployments.
