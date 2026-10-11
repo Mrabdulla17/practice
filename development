@@ -1,0 +1,25 @@
+<!-- example on card tag-->
+<!DOCTYPE html>
+<html lang="en">
+<head> 
+<title>
+card tag</title>
+<link rel="icon" href="C:\Users\abdul\OneDrive\Pictures/logo.avif"/>
+</title>
+<body>
+<h2> card tag</h2>
+<div style="width:5px%; border-radius:15px%; padding:10px; box-shadow:0 0 10px black;">
+<img src="C:\Users\abdul\OneDrive\Desktop\floder od html\images/makka.avif"/ width="100%" alt="makka"/>
+
+<h1 align="center"> makka</h1>
+<p align="justify">
+Mecca, city, western Saudi Arabia, located in the Ṣirāt Mountains, inland from the Red Sea coast. 
+It is the holiest of Muslim cities. Muhammad, the founder of Islam, was born in Mecca, 
+and it is toward this religious centre that Muslims turn five times daily in prayer (see qiblah). All devout
+</p>
+<div align="right">
+<a href="https://www.getyourguide.com/-l175?cmp=bing&cmp=bing&ad_id=77653228881365&adgroup_id=1242449500771504&bid_match_type=be&campaign_id=710930596&device=c&feed_item_id=&keyword=makkah+saudi+arabia&loc_interest_ms=154633&loc_physical_ms=157761&match_type=e&msclkid=dd8280be661618805a53e9700f32bcf1&network=o&partner_id=CD951&target_id=kwd-77653484775147:loc-90&utm_adgroup=lc=175:mecca|fn=f3|ci=937:things+to+do&utm_campaign=dc=54:sa|lc=175:mecca|ct=core|ln=29:en|tc=us&utm_keyword=makkah+saudi+arabia&utm_medium=paid_search&utm_query=information+about+makkah+saudi+arabia&utm_source=bing"> read more </a>
+     </div>
+</div>
+</body>
+</html>
