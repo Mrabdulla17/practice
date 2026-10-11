@@ -8,3 +8,4 @@ Docker Hub is a registry for storing and sharing images.
 Docker containers are lightweight and fast compared with virtual machines.
 Common commands: docker build, docker run, docker ps, docker stop.
 Docker is widely used in DevOps, CI/CD, microservices, and cloud deployments.
+dockers
