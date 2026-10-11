@@ -1,3 +1,4 @@
+# OTP generated code 
 
 import random
 
@@ -14,3 +15,4 @@ if user_otp == str(otp):
     print("OTP verified successfully!")
 else:
     print("Invalid OTP. Please try again.")
+
